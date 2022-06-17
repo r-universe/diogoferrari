@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ceser",
+    "oncran": true
+  },
+  {
+    "package": "hdpGLM",
+    "oncran": true
+  }
+]
